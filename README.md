@@ -1,8 +1,15 @@
-## Hi there, I'm Levi 👋
+# Hi there, I'm Levi! 👋  
 
-Welcome to my Github Page! I am a *network and security specialist* working to build a safe and efficient world for everyone. A life long learner, friend, father, and husband. 
+Welcome to my GitHub! I'm a **Network & Security Specialist** passionate about building secure, efficient, and scalable systems. A **lifelong learner**, **father**, and **husband**, I continuously strive to expand my knowledge and share insights with the community.  
 
----
-- 🔭 I’m currently working on: Obtaining my BS in Cybersecurity | My current role being _network specialist_
-- 🌱 I’m currently learning: Everything I can possibly cram into my brain
----
+### 🚀 What I'm Working On  
+- 🏫 **Pursuing my BS in Cybersecurity** at UW Stout
+- 💼 **Network Specialist** managing enterprise infrastructure & security 
+- 🛠️ **Building & automating** tools for networking & cybersecurity  
+
+### 📚 What I'm Learning  
+- 🔐 Cybersecurity research & ethical hacking  
+- 🖧 Advanced networking & infrastructure security  
+- 🏗️ Software development & automation  
+
+💡 Always open to collaboration, security research, and new challenges. Feel free to connect! 🚀  
