@@ -4,12 +4,13 @@ Welcome to my GitHub! I'm a **Network & Security Specialist** passionate about b
 
 ### 🚀 What I'm Working On  
 - 🏫 **Pursuing my BS in Cybersecurity** at UW Stout
-- 💼 **Network Specialist** managing enterprise infrastructure & security 
+- 💼 **Network Engineer** managing enterprise infrastructure & security 
 - 🛠️ **Building & automating** tools for networking & cybersecurity  
 
 ### 📚 What I'm Learning  
 - 🔐 Cybersecurity research & ethical hacking  
 - 🖧 Advanced networking & infrastructure security  
-- 🏗️ Software development & automation  
+- 🏗️ Software development & automation
+- 🧑🏼‍💻 Better understanding of programming (Python, JS) 
 
 💡 Always open to collaboration, security research, and new challenges. Feel free to connect! 🚀  
